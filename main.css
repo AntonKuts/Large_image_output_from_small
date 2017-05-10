@@ -1,0 +1,48 @@
+#boxForBox{
+  margin-top: 50px;
+  padding: 20px;
+  padding-left: 40px;
+  height: 560px;
+  width: 380px;
+  background: rgb(0, 32, 199);
+}
+
+
+#mainImeg{
+  height: 300px;
+  width: 300px;
+  margin-left: 30px;
+  border: 2px solid red;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  margin-top: 20px;
+  margin-right: 20px;
+  border: 3px solid green;
+  float: left;
+}
+#imeg1
+{
+  border: 3px solid #dd3cd6;
+}
+/*
+#imeg1 {
+background: url(images/arctic.jpg);
+}
+#imeg2 {
+background: url(images/arctic.jpg);
+}
+#imeg3 {
+background: url(images/arctic.jpg);
+}
+#imeg4 {
+background: url(images/arctic.jpg);
+}
+#imeg5 {
+background: url(images/arctic.jpg);
+}
+#imeg6 {
+background: url(images/arctic.jpg);
+}*/
